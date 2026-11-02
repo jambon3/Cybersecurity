@@ -39,7 +39,7 @@ There is no universal legal requirement to achieve a specific Score. some exampl
 2. Incidents & alerts
 See detected threats and investigate what happened, which devices were affected, and what actions were taken.  
 <img src="Pictures/Incident-pic.png" alt="Incident-pic" width="400">
-<img src="Pictures/Screenshot 2026-10-16 133450.png" alt="Screenshot 2026-10-16 133450" width="400">  
+
 Review the incident summary, severity, affected assets, alerts, and evidence.
 Open manage case. Look for an Export, Download, or reporting option, if available in your portal.
 
